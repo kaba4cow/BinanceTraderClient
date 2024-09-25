@@ -1,0 +1,1 @@
+A binance client application written in Java. Provides abilities to view price graphs for listed trading pairs and configure and launch trading bots. Requires api.properties file with "api" and "secret" binance api keys.
